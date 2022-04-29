@@ -6,7 +6,8 @@
 - 🔭 I’m currently working at University of St. Gallen
 - 🌱 I graduated with Master's Degree in Cryptography and Informatics Security from University of Limoges
 - 🌱 and with a Bachelor's Degree in Computer Science from FPT University
-- 🤔 I’m interested in MPC and Blockchain
+- 🤔 I’m junior researcher in applied cryptography, especially MPC and Blockchain
+- 🔭 I am always looking forward for an opportunity to work with the enthusiastic supervisors.
 
 <p>Connect with me on
 <br>	
