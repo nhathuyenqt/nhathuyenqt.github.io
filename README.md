@@ -3,11 +3,11 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working at University of St. Gallen
+- 🔭 I’m a PhD candidate at Technology University of Dresden, Germany.
 - 🌱 I graduated with Master's Degree in Cryptography and Informatics Security from University of Limoges
 - 🌱 and with a Bachelor's Degree in Computer Science from FPT University
-- 🤔 I’m junior researcher in applied cryptography, especially MPC and Blockchain
-- 🔭 I am always looking forward for an opportunity to work with the enthusiastic supervisors.
+- 🤔 I’m enthusiastic researcher in applied cryptography, especially MPC and Blockchain, Confidential Cloud Computing
+- 🔭 I am always looking forward for an opportunity to to collaborate with talented researchers.
 
 <p>Connect with me on
 <br>	
