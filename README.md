@@ -7,7 +7,7 @@
 - 🌱 I graduated with Master's Degree in Cryptography and Informatics Security from University of Limoges
 - 🌱 and with a Bachelor's Degree in Computer Science from FPT University
 - 🤔 I’m enthusiastic researcher in applied cryptography, especially MPC and Blockchain, Confidential Cloud Computing
-- 🔭 I am always looking forward for an opportunity to intern as engineer or researcher.
+- 🔭 I am always looking forward for an opportunity to intern as an engineer or a researcher.
 
 - I am learning on my own here
   + Smart contract : https://dapp-world.com/soul/@xuhelios
