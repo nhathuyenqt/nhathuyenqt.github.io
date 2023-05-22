@@ -12,6 +12,7 @@
 - I am learning on my own here
   + Smart contract : https://dapp-world.com/soul/@xuhelios
   + Rust : https://exercism.org/profiles/nhathuyenqt
+  + Reading about zk: https://era.zksync.io/docs/dev/
   
 
 <p>Connect with me on
