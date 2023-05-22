@@ -9,6 +9,11 @@
 - 🤔 I’m enthusiastic researcher in applied cryptography, especially MPC and Blockchain, Confidential Cloud Computing
 - 🔭 I am always looking forward for an opportunity to to collaborate with talented researchers.
 
+- I am learning on my own here
+  + Smart contract : https://dapp-world.com/soul/@xuhelios
+  + Rust : https://exercism.org/profiles/nhathuyenqt
+  
+
 <p>Connect with me on
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/tran-ngoc-nhat-huyen-769720117/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
